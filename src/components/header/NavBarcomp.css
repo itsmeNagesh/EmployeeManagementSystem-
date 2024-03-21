@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;1,300;1,500;1,600&display=swap');
+
+.navbar-toggler-icon {
+  font-size: 0.75rem; /* Adjust the size as needed */
+ 
+}
+.pic1{
+  height: 40%;
+  border-radius: 70%;
+}
+
+
+.nav22{
+  position: fixed;
+  top:100;
+  font-size: larger;
+  font-weight: bolder;
+background-color:#000068;
+
+}
+span{
+   font-size:30px
+}
+@media (min-width:1200px) {
+  .menu{
+    margin-left: 20%;
+
+  }
+  
+}
+@media (max-width:450px){
+  .linksignup{
+    margin-right: 90%;
+  }
+ .linksignin{
+  margin-right: 80%;
+ }
+}
+@media  (max-width:400px) {
+
+
+  
+  
+}

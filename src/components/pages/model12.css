@@ -1,0 +1,14 @@
+.goglelogin{
+    margin-left: 50px;
+}
+@media (max-width:450px) {
+    .goglelogin{
+        margin-left: 50px;
+    }
+    .model1{
+       margin-top: 15%;
+    }
+    .k{
+        margin-left: 62%;
+    }
+}

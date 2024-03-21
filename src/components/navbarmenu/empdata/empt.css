@@ -1,0 +1,31 @@
+.kk{
+    margin-left: 70%;
+}
+.emp{
+    padding-top: 5%;
+}
+@media (max-width:450px) {
+    .model {
+        margin-left:50px ;
+    }
+    .kk{
+        margin-left:128px ;
+    }
+          .emp{
+            padding-top: 25%;
+          }    
+}
+@media (max-width :360px) {
+    .model{
+        margin-left:50px ;
+    }
+    .kk{
+        margin-left: 86px;
+    }
+    
+}
+.head th{
+    color:aliceblue;
+    font-weight: bold;
+    background-color: #000068;
+}

@@ -1,0 +1,30 @@
+/* @media (min-width:1250px) {
+    .coro{
+        height: 90vh;
+        width: 100%;
+    }
+} */
+/* home.css */
+@media (max-width:450px) {
+    .carousel-container{
+  margin-top: 20%;
+    }
+
+    
+  }
+  .carousel-container {
+
+      position: relative;
+      width: 100%;
+      background-color: #000068;
+
+   
+   /* Set the height of the container to 100vh */
+  }
+    
+    .tt {
+      max-width: 100%;
+       /* Set the height of the video to 100% of its container */
+    }
+  
+    

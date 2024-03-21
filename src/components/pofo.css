@@ -1,0 +1,35 @@
+.model{
+height: 10%;
+width: 10%;
+background-color: aquamarine;
+}
+.cross{
+   width: 70px;
+
+    margin-left: 75%;
+}
+.modal-right {
+    margin-left: 18%;
+    margin-top: 4%;
+}
+.out{
+    margin-left: 38%;
+}
+@media (max-width:450px) {
+    .model{
+       margin-top:50%;
+    }
+    .out{
+        margin-left: 20%;
+    }
+    .modal-right {
+        margin-left: 0.1%;
+        margin-top: 55%;
+    }
+    .cross{
+        height: 18px;
+       
+      
+    }
+    
+}

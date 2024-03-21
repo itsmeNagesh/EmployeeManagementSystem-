@@ -1,0 +1,8 @@
+.colr{
+padding-top: 12%;
+}
+@media (max-width:"450px") {
+    .colr{
+        padding-top: 25%;
+    }
+}
